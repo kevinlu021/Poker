@@ -1,0 +1,18 @@
+{
+  "name": "pokerserver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "poker-evaluator": "^2.0.5",
+    "socket.io": "^4.1.3"
+  }
+}
